@@ -1,9 +1,3 @@
-﻿/*Cameron Deao
- * CST-227
- * James Shinevar
- * 7/14/2019
- * Repo: https://bitbucket.org/cdeao/cst-227-milestone-6/src/master/ */
-
 using Cameron_Deao_Milestone_2;
 using System;
 using System.Collections.Generic;
