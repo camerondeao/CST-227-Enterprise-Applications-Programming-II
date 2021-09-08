@@ -1,0 +1,7 @@
+C:\Users\Cameron\source\repos\Cameron_Deao_Milestone_1\Cameron_Deao_Milestone_1\bin\Debug\Cameron_Deao_Milestone_1.exe.config
+C:\Users\Cameron\source\repos\Cameron_Deao_Milestone_1\Cameron_Deao_Milestone_1\bin\Debug\Cameron_Deao_Milestone_1.exe
+C:\Users\Cameron\source\repos\Cameron_Deao_Milestone_1\Cameron_Deao_Milestone_1\bin\Debug\Cameron_Deao_Milestone_1.pdb
+C:\Users\Cameron\source\repos\Cameron_Deao_Milestone_1\Cameron_Deao_Milestone_1\obj\Debug\Cameron_Deao_Milestone_1.csprojAssemblyReference.cache
+C:\Users\Cameron\source\repos\Cameron_Deao_Milestone_1\Cameron_Deao_Milestone_1\obj\Debug\Cameron_Deao_Milestone_1.csproj.CoreCompileInputs.cache
+C:\Users\Cameron\source\repos\Cameron_Deao_Milestone_1\Cameron_Deao_Milestone_1\obj\Debug\Cameron_Deao_Milestone_1.exe
+C:\Users\Cameron\source\repos\Cameron_Deao_Milestone_1\Cameron_Deao_Milestone_1\obj\Debug\Cameron_Deao_Milestone_1.pdb
